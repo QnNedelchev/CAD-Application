@@ -1,0 +1,2 @@
+W:\Portfolio\Applications\CADapplication\code\x64\Debug\CADapplication.exe
+W:\Portfolio\Applications\CADapplication\code\x64\Debug\CADapplication.pdb

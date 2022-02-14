@@ -1,0 +1,65 @@
+﻿  CADapplication.cpp
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(165,34): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(787,106): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(787,86): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(787,66): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(787,38): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(788,98): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(788,80): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(788,62): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(788,36): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(796,44): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(796,28): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(853,43): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(855,46): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(856,49): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(857,47): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(858,49): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(859,52): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(860,51): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(862,43): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(864,47): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(865,47): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+W:\Portfolio\Applications\CADapplication\code\CADapplication.cpp(866,50): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+  CADapplication.vcxproj -> W:\Portfolio\Applications\CADapplication\code\x64\Debug\CADapplication.exe

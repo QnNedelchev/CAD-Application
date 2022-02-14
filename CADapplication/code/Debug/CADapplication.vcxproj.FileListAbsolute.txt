@@ -1,0 +1,2 @@
+C:\Users\iliyan\source\repos\CADapplication\Debug\CADapplication.exe
+C:\Users\iliyan\source\repos\CADapplication\Debug\CADapplication.pdb
