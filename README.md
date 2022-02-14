@@ -4,6 +4,10 @@ A simple Command Line CAD clone made using C++ and the olcPixelGameEngine librar
 The purpose of this project was to learn low level language and it's features. 
 The project is a part of a Youtube tutorial aimed to explain Polymorphysm.
 I used it to learn more about the programming language C++ and some of it's features. 
+
+![CAD_ToolBox_Off](https://user-images.githubusercontent.com/99598013/153961692-aff1ff30-cf25-438c-8157-920c4ec786e9.png)
+
+
 I did some modifications from the orginal code: 
 
   - Adding measure mode
@@ -42,6 +46,11 @@ In Draw mode the user can choose from 6 different 2D shapes:
  It also allows the user to navigate through the 2D word (panning) and to zoom in and out 
   - Panning (Hold Z and drag with the mouse)
   - Zoom (Mouse Scroll Wheel)
+  - Toggle ToolBox On and Off (button Shift)
+
+
+![CAD](https://user-images.githubusercontent.com/99598013/153961845-511cbe2a-1a9f-4860-bbbf-3db9e84729c4.png)
+
 
 ### Code Summary
 The project was created with the help of a drawing library - olcPixelGameEngine. 
